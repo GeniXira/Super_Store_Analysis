@@ -1,6 +1,5 @@
 # Super_Store_Analysis
-# The Sparks Foundation
-## Data Science and Business Analytics Internship
+## Data Science and Business Analytics Internship Project
 ### Exploratory Data Analysis on Super Store
 
 ![image](https://user-images.githubusercontent.com/81607668/127727120-a11f32fa-3042-4773-b54e-fd1a792fff2f.png)
