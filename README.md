@@ -7,7 +7,7 @@
 #### Background
 Super Store is a small retail company based in the United States, specializing in products across Furniture, Office Supplies, and Technology categories. Their customer base includes a broad range of Consumer, Corporate, and Home Office clients. The dataset provides details on individual orders, including sales, profit, and geographic information.
 #### Business Task
-Analyse sales data and determine weak areas and opportunities to boost business growth.
+To analyze the sales data and identify areas of improvement and potential opportunities for enhancing business growth.
 
 #### Business Questions
 - Which Category is Best Selling and Most Profitable?
