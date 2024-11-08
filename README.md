@@ -2,7 +2,7 @@
 ### Exploratory Data Analysis on Super Store
 
 ![image](https://www.istockphoto.com/photo/empty-aisles-at-a-supermarket-gm1556119299-526820226?utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fsupermarket&utm_medium=affiliate&utm_source=unsplash&utm_term=supermarket%3A%3Aaffiliate-collections%3Aa)
-[Image credit](https://www.blogto.com/real-estate-toronto/2021/04/iconic-kims-convenience-store-for-sale-toronto/)
+
 
 #### Background
 Super Store is a small retail business located in the United States. They sell Furniture, Office Supplies and Technology products and their customers are the mass Consumer, Corporate and Home Offices. The data set contains sales, profit and geographical information of individual orders.
