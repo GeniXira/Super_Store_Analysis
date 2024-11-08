@@ -5,8 +5,7 @@
 [Image credit](https://www.blogto.com/real-estate-toronto/2021/04/iconic-kims-convenience-store-for-sale-toronto/)
 
 #### Background
-Super Store is a small retail business located in the United States. They sell Furniture, Office Supplies and Technology products and their customers are the mass Consumer, Corporate and Home Offices. The data set contains sales, profit and geographical information of individual orders.
-
+Super Store is a small retail company based in the United States, specializing in products across Furniture, Office Supplies, and Technology categories. Their customer base includes a broad range of Consumer, Corporate, and Home Office clients. The dataset provides details on individual orders, including sales, profit, and geographic information.
 #### Business Task
 Analyse sales data and determine weak areas and opportunities to boost business growth.
 
